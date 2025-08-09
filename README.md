@@ -9,7 +9,7 @@ Sou profissional com mais de 12 anos de experiência na área de Educação Fís
 🚀 Minha missão agora é construir soluções criativas e funcionais, unindo minha bagagem como educador físico à lógica e à inovação do mundo da programação. Estou aberto a oportunidades que me desafiem e contribuam para meu crescimento como desenvolvedor.
 -->
 
-<b>Competencias</b> 
+<b>Competências</b> 
 
 <p>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
