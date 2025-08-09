@@ -12,18 +12,23 @@ Sou profissional com mais de 12 anos de experiência na área de Educação Fís
 <b>Competencias</b> 
 
 <p>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <br>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <b>Contato:</b>
 
-<a href="https://www.instagram.com/tulio_gustavo19?igsh=MXRqaDgyNWhmNjZq&utm_source=qr" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagran-logo">
+<a href="https://www.instagram.com/tulio_gustavo19?igsh=MXRqaDgyNWhmNjZq&utm_source=qr" target="_blank"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagran-logo"/>
 <br>
      <a href="https://www.linkedin.com/in/tuliogustavo/">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
           <br>
   <a href="mailto:tulio.gustavos4@gmail.com?subject=Assunto do E-mail&body=Corpo do E-mail">   
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+
+[![Túlio Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliogustavos4-dot)](https://github.com/tuliogustavo-dot/github-readme-stats)
 </p>
+
+
