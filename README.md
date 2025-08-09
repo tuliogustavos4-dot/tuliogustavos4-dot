@@ -29,6 +29,10 @@ Sou profissional com mais de 12 anos de experiência na área de Educação Fís
 
 
 [![Túlio Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliogustavos4-dot)](https://github.com/tuliogustavo-dot/github-readme-stats)
+<br>
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliogustavos4-dot)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </p>
 
 
