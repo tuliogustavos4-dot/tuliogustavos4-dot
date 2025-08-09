@@ -19,6 +19,11 @@ Competencias
 Contato:
 
 <a href="https://www.instagram.com/tulio_gustavo19?igsh=MXRqaDgyNWhmNjZq&utm_source=qr" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagran-logo>
-  
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagran-logo">
+<br>
+     <a href="https://www.linkedin.com/in/tuliogustavo/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+          <br>
+  <a href="mailto:tulio.gustavos4@gmail.com?subject=Assunto do E-mail&body=Corpo do E-mail"></a>    
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
